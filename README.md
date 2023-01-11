@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ConsiderateSandyDanishswedishfarmdog-max-1mb.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://thumbs.gfycat.com/ConsiderateSandyDanishswedishfarmdog-max-1mb.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Muhsin Azmal</h1>
 <h3 align="center">A frontend developer and WordPress expert from Bangladesh</h3>
 <img href
