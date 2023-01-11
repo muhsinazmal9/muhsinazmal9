@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhsin Azmal</h1>
 <h3 align="center">A frontend developer and WordPress expert from Bangladesh</h3>
 <img href
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif")
 
 - 🌱 I’m currently learning **Raw PHP, Laravel**
 
