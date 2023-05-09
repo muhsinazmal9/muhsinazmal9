@@ -1,12 +1,8 @@
-<!-- [![MasterHead](https://thumbs.gfycat.com/ConsiderateSandyDanishswedishfarmdog-max-1mb.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Muhsin Azmal</h1>
 <h3 align="center">A frontend developer and WordPress expert from Bangladesh</h3>
-<img href
-(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif")
 
 # 💫 About Me:
 🔭 I’m currently working on Web Design and development.<br>👯 I’m looking to collaborate on Stack Learner.<br>👨‍💻 All of my projects are available at https://github.com/muhsinazmal9<br>🌱 I’m currently learning Dynamic Website Development with Raw PHP, Laravel framework.<br>💬 Ask me about Bootstrap, Tailwind CSS, WooCommerce<br>⚡ Fun fact I'm also a graphic Designer
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/muhsinazmal9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhsinazmal9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhsinazmal9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhsinazmal9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhsinazmal9) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/muhsinalfateh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muhsinazmal9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19801138) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muhsinazmal9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC2DtP1oRwJoi74tdTxw9X1g) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhsinazmal9) 
