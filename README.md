@@ -20,6 +20,10 @@
 
 ###
 
+<br>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -44,11 +48,11 @@
 
 ###
 
-<p align="left"></p>
+<br>
 
 ###
 
-<h6 align="left">👻 Where to Find Me</h6>
+<h3 align="left">👻 Where to Find Me</h3>
 
 ###
 
