@@ -1,30 +1,81 @@
-<h1 align="center">Hi 👋, I'm Muhsin Azmal</h1>
-<h3 align="center">A frontend developer and WordPress expert from Bangladesh</h3>
+<h1 align="center">Hey there! 👋</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on Web Design and development.<br>👯 I’m looking to collaborate on Stack Learner.<br>👨‍💻 All of my projects are available at https://github.com/muhsinazmal9<br>🌱 I’m currently learning Dynamic Website Development with Raw PHP, Laravel framework.<br>💬 Ask me about Bootstrap, Tailwind CSS, WooCommerce<br>⚡ Fun fact I'm also a graphic Designer
+###
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/muhsinazmal9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhsinazmal9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhsinazmal9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhsinazmal9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhsinazmal9) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/muhsinalfateh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muhsinazmal9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19801138) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muhsinazmal9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC2DtP1oRwJoi74tdTxw9X1g) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhsinazmal9) 
+<div align="center">
+  <img height="75" src="https://media.giphy.com/media/Epq61rij3G82cHoqEU/giphy.gif"  />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhsinazmal9&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhsinazmal9&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinazmal9&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h4 align="center">A frontend developer and WordPress expert from Bangladesh</h4>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhsinazmal9&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=muhsinazmal9&icon=0&color=5)](https://visitcount.itsvg.in)
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhsinazmal9) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MuhsinAzmal) 
+###
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">- 🔭 I’m currently working as Web Designer and developer.<br>- 📚 I'm currently learning Dynamic Website Development with Raw PHP, and Laravel framework.<br>- 👨‍💻 All of my projects are available at https://github.com/muhsinazmal9<br>- 💬 Ask me about Bootstrap, Tailwind CSS, WooCommerce<br>- ⚡ In my free time I love to Photograph, Travel, Read books, Listen to music, etc.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" width="52" alt="woocommerce logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h6 align="left">👻 Where to Find Me</h6>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhsinazmal9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitter.com/muhsinazmal9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.behance.net/muhsinazmal9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://www.facebook.com/muhsinazmal9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muhsinazmal9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhsinazmal9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
