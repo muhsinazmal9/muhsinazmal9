@@ -83,5 +83,7 @@
 </div>
 
 ###
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)
