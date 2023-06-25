@@ -83,7 +83,4 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers" />
-</div>
 
