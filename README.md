@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">A frontend developer and WordPress expert from Bangladesh</h4>
+<h4 align="center">A full-stack developer and WordPress expert from Bangladesh</h4>
 
 ###
 
