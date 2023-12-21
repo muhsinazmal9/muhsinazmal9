@@ -1,5 +1,5 @@
 
-# Hi <span><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /></span> I am Muhsin Azmal, nice to see you!
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I am Muhsin Azmal, nice to see you!
 
 ###
 
