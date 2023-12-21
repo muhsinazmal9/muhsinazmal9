@@ -57,7 +57,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /> My Stats :
 
-  <img src="https://streak-stats.demolab.com?user=muhsinazmal9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhsinazmal9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+![muhsin's Stats](https://github-readme-stats.vercel.app/api?username=muhsinazmal9&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![muhsin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhsinazmal9&theme=darcula&hide_border=true)
+
+![muhsin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinazmal9&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 
