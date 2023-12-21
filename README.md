@@ -20,7 +20,8 @@
 <p align="left">
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> I’m currently working as Web Designer and developer.<br>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> I'm currently learning Dynamic Web application Development with PHP and Laravel framework.<br>
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> All of my projects are available at ![Here!](https://github.com/muhsinazmal9?tab=repositories)<br>
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> All of my projects are available at [GitHub](https://github.com/muhsinazmal9)
+<br>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Ask me about Bootstrap, Tailwind CSS, WooCommerce<br>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="25" height="25" /> In my free time I love to Photograph, Travel, Read books, Listen to music etc .
 </p>
