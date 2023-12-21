@@ -1,13 +1,10 @@
 
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="30" height="30" /> I am Muhsin Azmal, nice to see you!
 
-[//]: <img height="75" src="https://media.giphy.com/media/Epq61rij3G82cHoqEU/giphy.gif"  /> <br>
-
-[//]: ### Full-stack Developer from 🇧🇩
-
-
-
-<br>
+<!--
+<img height="75" src="https://media.giphy.com/media/Epq61rij3G82cHoqEU/giphy.gif"  /> <br>
+### Full-stack Developer from 🇧🇩
+-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="20" height="20" />  About Me
 
