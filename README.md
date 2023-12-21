@@ -3,9 +3,8 @@
 
 ### Full-stack Developer from 🇧🇩
 
-<!-- <div align="center">
-  <img height="75" src="https://media.giphy.com/media/Epq61rij3G82cHoqEU/giphy.gif"  />
-</div> -->
+<img height="75" src="https://media.giphy.com/media/Epq61rij3G82cHoqEU/giphy.gif"  />
+
 
 <br>
 
