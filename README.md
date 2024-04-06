@@ -53,12 +53,12 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /> My Stats :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prorakib77&label=Profile%20views&color=0e75b6&style=flat" alt="prorakib77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinazmal9&abbreviated=true&style=flat-square" alt="muhsinazmal9" /> </p>
 
-![muhsin's Stats](https://github-readme-stats.vercel.app/api?username=muhsinazmal9&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![muhsin's Stats](https://github-readme-stats.vercel.app/api?username=muhsinazmal9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![muhsin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhsinazmal9&theme=darcula&hide_border=true)
+![muhsin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhsinazmal9&theme=dark&hide_border=false)
 
-![muhsin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinazmal9&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![muhsin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinazmal9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
