@@ -8,11 +8,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="20" height="20" />  About Me
 
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="15" height="15" /> I’m currently working as a Web Designer and developer.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="15" height="15" /> I'm currently learning Dynamic Web application Development with PHP and Laravel framework.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="15" height="15" /> I’m currently working as a Web Developer and WordPress expert.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="15" height="15" /> I'm currently learning Shopify Theme and App development.
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="15" height="15" /> All of my projects are available at [Here!](https://github.com/muhsinazmal9?tab=repositories)
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="15" height="15" /> Ask me about Tailwind CSS, AlpineJS, Laravel, Livewire
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="15" height="15" /> In my free time, I love to Photograph, Travel, Read books, Listen to music, etc.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="15" height="15" /> Ask me about Tailwind CSS, AlpineJS, Laravel, Livewire, jQuery, etc.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="15" height="15" /> In my free time, I love to Photograph, Travel, Read books, Listen to nasheed, etc.
 
 
 
