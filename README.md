@@ -54,7 +54,3 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /> My Stats :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinazmal9&abbreviated=true&style=flat-square" alt="muhsinazmal9" /> </p>
-
-![](https://github-readme-stats.vercel.app/api?username=muhsinazmal9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-
