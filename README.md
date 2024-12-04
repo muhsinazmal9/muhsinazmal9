@@ -57,8 +57,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=muhsinazmal9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![muhsin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhsinazmal9&theme=dark&hide_border=false)
-
-![muhsin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinazmal9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
