@@ -43,12 +43,9 @@
 <a href="https://www.twitter.com/muhsinazmal9" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </a>
-<a href="https://www.behance.net/muhsinazmal9" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+<a href="https://www.instagram.net/muhsinazmal9" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
 </a>
-<a href="https://www.facebook.com/muhsinazmal9" target="_blank">
+<a href="https://www.facebook.com/muhammadmuhainazmal" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </a>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinazmal9&abbreviated=true&style=flat-square" alt="muhsinazmal9" /> </p>
