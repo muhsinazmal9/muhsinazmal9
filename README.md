@@ -25,3 +25,5 @@
     <li>In my free time, I love to Photograph, Travel, Read books, Listen to nasheed, etc.</li>
   </ul>
 </details>
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand
