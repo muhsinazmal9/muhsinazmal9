@@ -18,10 +18,10 @@
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="15" height="15" /> <i>Click here to know more about me</i></summary>
   <hr>
   <ul>
-    <li>I’m currently working as a Web Developer and WordPress expert.</li>
+    <li>I’m currently working as a Full-stack Developer and WordPress expert.</li>
+    <li>I mostly work with Laravel and React for front-end</li>
     <li>I'm currently learning Shopify Theme and App development.</li>
     <li>All of my projects are available at <a href="https://github.com/muhsinazmal9?tab=repositories">Here!</a></li>
-    <li>Ask me about Tailwind CSS, AlpineJS, Laravel, Livewire, jQuery, etc.</li>
     <li>In my free time, I love to Photograph, Travel, Read books, Listen to nasheed, etc.</li>
   </ul>
 </details>
